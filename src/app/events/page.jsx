@@ -1,10 +1,5 @@
-import React from 'react'
-import Layout from '../../components/Layout'
+import React from "react";
 
 export default function events() {
-    return (
-        <Layout>
-
-        </Layout>
-    )
+  return <div className="">Events</div>;
 }
